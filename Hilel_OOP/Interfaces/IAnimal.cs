@@ -8,6 +8,6 @@ public interface IAnimal
 
     void SayHello()
     {
-        Console.WriteLine("Default");
+        Console.WriteLine("I am default implementation");
     }
 }
